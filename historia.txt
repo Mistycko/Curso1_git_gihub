@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hola como estas esto es en el master.
 
+=======
+hola como estas
+muy bien 
+esto es la cabecera.
+>>>>>>> cabecera
