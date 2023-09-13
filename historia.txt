@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-hola como estas esto es en el master.
+Esta es la historia de Freddy Vega
 
-=======
-hola como estas
-muy bien 
-esto es la cabecera.
->>>>>>> cabecera
+Freddy Vega tiene 32 años y nació en Colombia
 
-
-no se donde estas.--cabacera.º
+Mañana nos enfocaremos en su vida laboral
